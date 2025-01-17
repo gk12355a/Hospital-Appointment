@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dELL\\Documents\\hostpitallink4\\Hospital-Information-System\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\dELL\\Documents\\Hospital-Appointment\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dELL\\Documents\\hostpitallink4\\Hospital-Information-System\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\dELL\\Documents\\Hospital-Appointment\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dELL\\Documents\\hostpitallink4\\Hospital-Information-System\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\dELL\\Documents\\Hospital-Appointment\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\dELL\\Documents\\hostpitallink4\\Hospital-Information-System\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\dELL\\Documents\\Hospital-Appointment\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\dELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dELL\\Documents\\hostpitallink4\\Hospital-Information-System\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\dELL\\Documents\\Hospital-Appointment\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,9 +76,25 @@
               "target": "Package",
               "version": "[6.0.13, )"
             },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.6.23, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.11, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[7.2.0, )"
             }
           },
           "imports": [
