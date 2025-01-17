@@ -11028,31 +11028,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dELL\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dELL\\Documents\\Hospital-Appointment\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "/projects/Hospital-Appointment/WebApp/WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\dELL\\Documents\\Hospital-Appointment\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\dELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dELL\\Documents\\Hospital-Appointment\\WebApp\\obj\\",
+      "projectPath": "/projects/Hospital-Appointment/WebApp/WebApp.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/projects/Hospital-Appointment/WebApp/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11070,8 +11063,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net6.0": {
@@ -11143,7 +11135,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.405/RuntimeIdentifierGraph.json"
       }
     }
   }
